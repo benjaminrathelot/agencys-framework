@@ -1,0 +1,5 @@
+int id : sql autoincrement primary
+varchar.30 email : sql
+varchar.15 username : sql
+text password : sql
+int cms : sql

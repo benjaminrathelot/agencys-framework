@@ -1,0 +1,6 @@
+<?php
+include("sh/s");
+include("sh/w");
+include("sh/p");
+include("sh/l");
+include("res/func/getUrl.func.php");

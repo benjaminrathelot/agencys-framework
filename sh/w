@@ -1,0 +1,4 @@
+<?php
+include("res/class/AvancedWorkupTemplate.class.php");
+$w = new AWUT;
+?>
